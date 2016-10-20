@@ -4,7 +4,7 @@
 import math
 import os
 import sys
-
+from IPython.core.display import HTML
 
 def test_is_python_35():
     major = sys.version_info.major
@@ -101,3 +101,6 @@ if __name__ == "__main__":
     test_scipy()
     test_pylab()
     test_sympy()
+    print('-----------------------------')
+    print('All the IPython Notebooks in this lecture series are available at:\nhttps://github.com/ondrolexa/r-python')
+
