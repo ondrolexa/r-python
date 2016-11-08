@@ -4,10 +4,12 @@ USER root
 
 # Add R dependencies
 RUN apt-get update
-RUN apt-get install -y r-base libzmq3-dev
+RUN apt-get install -y libzmq3-dev \
+  libxrender1 xfonts-base xfonts-scalable libsm-dev libxmu-dev libfontconfig1 \
+  libzmq3-dev libcurl4-gnutls-dev libssh2-1-dev libcairo2-dev
 
-COPY install-irkernel.R /home/install-irkernel.R
+RUN conda config --add channels r
+RUN conda install -y r-base r-essentials
 
-RUN R --no-save < /home/install-irkernel.R
 USER main
 
