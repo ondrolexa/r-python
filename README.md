@@ -10,6 +10,11 @@ Teaching materials for Data analysis in R and Python course
 * [Numpy arrays](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/02-Numpy.ipynb)
 * [Matplotlib plotting library](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/03-Matplotlib.ipynb)
 
+## Pandas
+* [Introduction to pandas](https://github.com/ondrolexa/r-python/blob/master/pandas-01-titanic.ipynb)
+* [Other example with pandas](https://github.com/ondrolexa/r-python/blob/master/pandas-02-clementinum.ipynb)
+* [Working with time series](https://github.com/ondrolexa/r-python/blob/master/pandas-03-neic.ipynb)
+
 ## R
 
 * [R syntax Part 1](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/R_syntax_01.ipynb)
