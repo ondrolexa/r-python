@@ -15,12 +15,12 @@ Teaching materials for Data analysis in R and Python course
 * [Other example with pandas](https://github.com/ondrolexa/r-python/blob/master/pandas-02-clementinum.ipynb)
 * [Working with time series](https://github.com/ondrolexa/r-python/blob/master/pandas-03-neic.ipynb)
 
-## R
+## Something extra
+* [The Zen of Python](https://github.com/ondrolexa/r-python/blob/master/X1-Python-intro.ipynb)
+* [Print statement and string formatting](https://github.com/ondrolexa/r-python/blob/master/X2-Print-statement.ipynb)
+* [Data structures I](https://github.com/ondrolexa/r-python/blob/master/X3-Data-structures-I.ipynb)
+* [Data structures II](https://github.com/ondrolexa/r-python/blob/master/X3-Data-structures-II.ipynb)
+* [Control flow statements](https://github.com/ondrolexa/r-python/blob/master/X4-Control-flow.ipynb)
 
-* [R syntax Part 1](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/R_syntax_01.ipynb)
-* [R syntax Part 2](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/R_syntax_02.ipynb)
-* [R syntax Part 3](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/R_syntax_03.ipynb)
-* [R syntax Part 4 Graphics](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/R_syntax_04.ipynb)
-* [R syntax Part 5 Programming](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/R_syntax_05.ipynb)
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ondrolexa/r-python)
