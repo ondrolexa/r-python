@@ -23,4 +23,4 @@ Teaching materials for Data analysis in R and Python course
 * [Control flow statements](https://github.com/ondrolexa/r-python/blob/master/X4-Control-flow.ipynb)
 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ondrolexa/r-python)
+[![Run repo in Binder(Beta)](http://mybinder.org/badge.svg)](https://hub.beta.mybinder.org/user/ondrolexa-r-python-vpeadkd7)
