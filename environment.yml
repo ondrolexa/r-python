@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+  - ondrolexa
+dependencies:
+  - python=3
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - apsg
