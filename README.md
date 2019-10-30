@@ -7,7 +7,7 @@ Teaching materials for Data analysis in R and Python course
 
 * [Before we start](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/00-Intro.ipynb)
 * [Introduction to Python programming - Part I](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/01-Introduction-to-Python-I.ipynb)
-* [Introduction to Python programming - Part II](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/01-Introduction-to-Python-II.ipynb)
+* [Introduction to Python programming - Part II](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/02-Introduction-to-Python-II.ipynb)
 
 ## Something extra
 * [The Zen of Python](http://nbviewer.jupyter.org/github/ondrolexa/r-python/blob/master/X1-Python-intro.ipynb)
